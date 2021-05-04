@@ -1,10 +1,11 @@
+  
 {
 	"env": {
 		"API_ID": {
-			"description": "Get this value from https://my.telegram.org or just easy way https://t.me/s4h_api_idbot on th "
+			"description": "Get this value from https://my.telegram.org"
 		},
 		"API_HASH": {
-			"description": "Get this value from https://my.telegram.org or just easy way https://t.me/s4h_api_idbot on tg"
+			"description": "Get this value from https://my.telegram.org"
 		},
 		"DATABASE_URL": {
 			"description": "Mongodb url from https://cloud.mongodb.com/, guide: https://del.dog/mongodb_guide"
@@ -20,7 +21,7 @@
 			"required": false
 		},
 		"HU_STRING_SESSION": {
-			"description": "Get this using 'https://t.me/genStr_Bot' or `bash genStr`",
+			"description": "Get this using 'https://repl.it/@Leorio/stringsessiongen' or `bash genStr`",
 			"required": false
 		},
 		"BOT_TOKEN": {
@@ -28,8 +29,9 @@
 			"required": false
 		},
 		"UPSTREAM_REPO": {
-			"description": "just copy these--> ( https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN ) and paste below .",
-			"required": false
+			"description": "fill only if you maintain a fork !, else leave empty",
+			"required": false,
+                        "value": "https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN"
 		},
 		"OWNER_ID": {
 			"description": "Your user_id(s) e.g 123456789 or mutiple ids",
@@ -39,7 +41,12 @@
 			"description": "Upstream repo preffered branch. (Dont Touch This !)",
 			"required": false,
 			"value": "alpha"
-		}
+		},
+                "LOAD_UNOFFICIAL_PLUGINS": {
+                "description": "For Unofficial plugins. If you need Set True.", 
+                "required": false, 
+                "value": "true" 
+              }, 
 	},
 	"buildpacks": [
 		{
@@ -55,4 +62,3 @@
 		{ "url": "heroku/python" }
 	]
 }
-
