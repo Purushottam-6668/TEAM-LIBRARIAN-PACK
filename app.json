@@ -39,8 +39,8 @@
 			"value": "https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN"
 		},
 		"LOAD_UNOFFICIAL_PLUGINS": {
-			
-		       "value": "false"
+			"description": "Fill True If You Need Extra Plugins",
+		   "value": "false"
 		},
 		"OWNER_ID": {
 			"description": "Your user_id(s) e.g 123456789 or mutiple ids",
