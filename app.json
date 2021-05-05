@@ -52,11 +52,11 @@
 		  "required": true
 		},
 		"PM_LOG_GROUP_ID": {
-		  "description": "If someone sending messages you in privat, it will be saved on your group add @MissroseBot in Your private group and do /id "
+		  "description": "If someone sending messages you in privat, it will be saved on your group add @MissroseBot in Your private group and do /id",
 		  "required": false
 		},
 		"GROUP_LOG_GROUP_ID": {
-		  "description": "If someone tags you in a group, they will be saved on your group , add @Missrosebot in your private group and do /id"
+		  "description": "If someone tags you in a group, they will be saved on your group , add @Missrosebot in your private group and do /id",
 		  "required": false
 		},
 	},
