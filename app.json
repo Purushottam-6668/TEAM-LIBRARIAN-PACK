@@ -26,7 +26,7 @@
 		         "required": false
                 },
                 "GROUP_LOG_GROUP_ID": {
-                       "description": "[Private Ty Telegram Log Group I'd ] Note Same as It is PM_LOG_GROUP_ID."
+                       "description": "[Private Ty Telegram Log Group I'd ] Note Same as It is PM_LOG_GROUP_ID.", 
                        "required": false
                 },
 		"HEROKU_API_KEY": {
