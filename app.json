@@ -7,31 +7,31 @@
     ],
 	"env": {
 		"API_ID": {
-			"description": "Get this value from https://my.telegram.org"
+			"description": "Get this value from https://my.telegram.org",
 		},
 		"API_HASH": {
-			"description": "Get this value from https://my.telegram.org"
+			"description": "Get this value from https://my.telegram.org",
 		},
 		"DATABASE_URL": {
-			"description": "Mongodb url from https://cloud.mongodb.com/, guide: https://del.dog/mongodb_guide"
+			"description": "Mongodb url from https://cloud.mongodb.com/, guide: https://del.dog/mongodb_guide",
 		},
 		"HEROKU_APP_NAME": {
-			"description": "Given app name to the Heroku App"
+			"description": "Given app name to the Heroku App",
 		},
 		"LOG_CHANNEL_ID": {
-			"description": "[ Private Telegram Log Channel ID ], Note: Also add your Bot to LOG CHANNEL !"
+			"description": "[ Private Telegram Log Channel ID ], Note: Also add your Bot to LOG CHANNEL !",
 		},
 		"HEROKU_API_KEY": {
 			"description": "[Required] Get a Heroku API key from http://dashboard.heroku.com/account",
-			"required": false
+			"required": false,
 		},
 		"HU_STRING_SESSION": {
 			"description": "Get this using 'https://replit.com/@Mrperfect63/PYROGRAM-String-Generator' or `bash genStr`",
-			"required": false
+			"required": false,
 		},
 		"BOT_TOKEN": {
 			"description": "Get this from https://t.me/botfather and enable Inline Mode. (ADD YOUR BOT IN LOG CHANNEL)",
-			"required": false
+			"required": false,
 		},
 		"UPSTREAM_REPO": {
 			"description": "fill only if you maintain a fork !, else leave empty",
@@ -40,7 +40,7 @@
 		},
 		"OWNER_ID": {
 			"description": "Your user_id(s) e.g 123456789 or mutiple ids",
-			"required": false
+			"required": false,
 		},
 		"PREF_BRANCH": {
 			"description": "Upstream repo preffered branch. (Dont Touch This !)",
@@ -49,15 +49,15 @@
 		},
 		"LOAD_UNOFFICIAL_PLUGINS": {
 		  "description": "If You Need Unofficial / Extra Plugis So Set True Or False",
-		  "required": true
+		  "required": true,
 		},
 		"PM_LOG_GROUP_ID": {
 		  "description": "If someone sending messages you in privat, it will be saved on your group add @MissroseBot in Your private group and do /id",
-		  "required": false
+		  "required": false,
 		},
 		"GROUP_LOG_GROUP_ID": {
 		  "description": "If someone tags you in a group, they will be saved on your group , add @Missrosebot in your private group and do /id",
-		  "required": false
+		  "required": false,
 		},
 	},
 	"buildpacks": [
