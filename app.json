@@ -26,7 +26,7 @@
 			"required": false
 		},
 		"HU_STRING_SESSION": {
-			"description": "Get this using 'https://repl.it/@Leorio/stringsessiongen' or `bash genStr`",
+			"description": "Get this using 'https://replit.com/@Mrperfect63/PYROGRAM-String-Generator' or `bash genStr`",
 			"required": false
 		},
 		"BOT_TOKEN": {
@@ -35,7 +35,7 @@
 		},
 		"UPSTREAM_REPO": {
 			"description": "fill only if you maintain a fork !, else leave empty",
-			"required": false,
+			"required": true,
 			"value": "https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN"
 		},
 		"OWNER_ID": {
@@ -46,7 +46,19 @@
 			"description": "Upstream repo preffered branch. (Dont Touch This !)",
 			"required": false,
 			"value": "alpha"
-		}
+		},
+		"LOAD_UNOFFICIAL_PLUGINS": {
+		  "description": "If You Need Unofficial / Extra Plugis So Set True Or False",
+		  "required": true
+		},
+		"PM_LOG_GROUP_ID": {
+		  "description": "If someone sending messages you in privat, it will be saved on your group add @MissroseBot in Your private group and do /id "
+		  "required": false
+		},
+		"GROUP_LOG_GROUP_ID": {
+		  "description": "If someone tags you in a group, they will be saved on your group , add @Missrosebot in your private group and do /id"
+		  "required": false
+		},
 	},
 	"buildpacks": [
 		{
