@@ -1,4 +1,10 @@
 {
+    "name":"Team_Librarian",
+    "description":"Based On USERGE-X",
+    "logo":"https://telegra.ph/file/29bbbae5dec999fa986a0.png",
+    "keywords":[
+        "JUST EASY WAY TO DEPLOY"
+    ],
 	"env": {
 		"API_ID": {
 			"description": "Get this value from https://my.telegram.org"
