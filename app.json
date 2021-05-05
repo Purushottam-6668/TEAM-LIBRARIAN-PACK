@@ -19,15 +19,14 @@
 			"description": "Given app name to the Heroku App"
 		},
 		"LOG_CHANNEL_ID": {
-			"description": "[ Private Telegram Log Channel ID ], Note: Also add your Bot to LOG CHANNEL !",
+			"description": "[ Private Telegram Log Channel ID ], Note: Also add your Bot to LOG CHANNEL !"
 		},
 		"PM_LOG_GROUP_ID": {
-		         "description": " [Private Telegram Group id] Note: Same as It is GROUP_LOG_GROUP_ID.",
-		
-                },
-                "GROUP_LOG_GROUP_ID": {
-                       "description": "[Private Ty Telegram Log Group I'd ] Note Same as It is PM_LOG_GROUP_ID.", 
-                },
+		   "description": " [Private Telegram Group id] Note: Same as It is GROUP_LOG_GROUP_ID."
+	  },
+     "GROUP_LOG_GROUP_ID": {
+        "description": "[Private Ty Telegram Log Group I'd ] Note Same as It is PM_LOG_GROUP_ID."
+    },
 		"HEROKU_API_KEY": {
 			"description": "[Required] Get a Heroku API key from http://dashboard.heroku.com/account",
 			"required": false
