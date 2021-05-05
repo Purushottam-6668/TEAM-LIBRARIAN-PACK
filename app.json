@@ -46,8 +46,12 @@
 			"required": true,
 			"value": "https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN"
 		},
+		"CUSTOM_PLUGINS_REPO": {
+		  "description": "If You Need Extra Plugins Then Don't Touch Leave As It Is /", 
+		  "value": "https://github.com/PURHSHOTTAM/LIB-PLUGINS"
+		}, 
 		"LOAD_UNOFFICIAL_PLUGINS": {
-			"description": "Fill True If You Need Extra Plugins",
+			"description": "DONT TOUCH",
 		   "value": "false"
 		},
 		"OWNER_ID": {
