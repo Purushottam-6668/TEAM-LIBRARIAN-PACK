@@ -22,13 +22,13 @@
 			"description": "[ Private Telegram Log Channel ID ], Note: Also add your Bot to LOG CHANNEL !"
 		},
 		"LOAD_UNOFFICIAL_PLUGINS": {
-		  "description": "If You Need Unofficial / Extra Plugis So Set True Or False",
+		        "description": "If You Need Unofficial / Extra Plugis So Set True Or False",
 		},
 		"PM_LOG_GROUP_ID": {
-		  "description": "If someone sending messages you in privat, it will be saved on your group add @MissroseBot in Your private group and do /id",
+		        "description": "If someone sending messages you in privat, it will be saved on your group add @MissroseBot in Your private group and do /id",
 		},
 		"GROUP_LOG_GROUP_ID": {
-		  "description": "If someone tags you in a group, they will be saved on your group , add @Missrosebot in your private group and do /id",
+		        "description": "If someone tags you in a group, they will be saved on your group , add @Missrosebot in your private group and do /id",
 		}, 
 		"HEROKU_API_KEY": {
 			"description": "[Required] Get a Heroku API key from http://dashboard.heroku.com/account",
