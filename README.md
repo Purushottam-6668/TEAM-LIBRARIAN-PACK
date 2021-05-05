@@ -46,7 +46,7 @@ The easiest way to deploy this Bot
 ```
 * Telegram [API Keys](https://my.telegram.org/apps)
 * Google Drive [API Keys](https://console.developers.google.com/)
-* HU_SESSION [![HU_SESSION](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@MrPerfectPURUSH/stringsessiongen?v=1)
+* HU_SESSION [![HU_SESSION](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Mrperfect63/PYROGRAM-String-Generator)
 * MongoDB [Database URL](https://cloud.mongodb.com/)
 ## How To Deploy 
 * With Heroku:<b>Just Click On Image Given Below<b>
