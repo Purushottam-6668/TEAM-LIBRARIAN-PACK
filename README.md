@@ -1,5 +1,3 @@
-# TEAM-LIBRARIAN-PACK
-
 <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height=30px"></a> <h1 align="center">Heya Hello😊💫</h1>
 <p align="center">
 <b>HESEE IS A CLONE OF USERGE-X 
@@ -24,6 +22,51 @@ These Userbot is specially Maded  For Team Admin + owners Of Librarian <b>
 # How To Host {CREAT} 
 The easiest way to deploy this Bot
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN-PACK"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+   
+
+# Guide 📚😉
+ Hello Users If You dont Know How to setup Then Read Carefully ok
+ HOW To Get Your All Required Values
+
+ * `API_ID` - Your api id It Can be Found [API ID GENERATOR BOT](https://t.me/s4h_api_idbot) OR [Official Website](http://my.telegram.org).
+
+* `API_HASH` - Same As API id  
+
+* `DATABASE_URL` - mongodb Url If You Dont Know How to Creat database on MongoDB Then Read [MONGODB GUIDE](https://telegra.ph/MONGODB-GUIDE-05-05)
+
+* `HEROKU_APP_NAME` - YOUR HEROKU APP NAME 
+
+* `LOG_CHANNEL_ID` - Creat A Channel And See Tutorial At [HERE](https://t.me/Librarian_Unofficial/13)😃
+
+* `PM_LOG_GROUP_ID` - A Private Group Id | Create A Private Group And Add t.me/MeThePrincess_bot or Any Group Manager Bot And use /id Command then Put The value On Respective Place
+
+* `GROUP_LOG_GROUP_ID` - Same As `PM_LOG_GROUP_ID`.
+
+* `HEROKU_API_KEY` - Go To --> [HEROKU ACCOUNT](https://dashboard.heroku.com/account) Scroll Down And Reveal Your Api Key Then Copy And Paste Their Respective place.
+
+* `HU_SESSION` - BY Run Repl --> [![HU_SESSION](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Mrperfect63/PYROGRAM-String-Generator) AND Press On Run BUTTON Then Follow Step By Step.. 
+
+* `BOT_TOKEN` - Go To [Bot Father](https://t.me/BotFather) Create bot And Copy BOT TOKEN.💢Note :- TURN ON INLINE MODE ALSO 
+
+* `UPSTREAM_REPO` - Already Filled Don't Touch these . 
+
+* `CUSTOM_PLUGINS_REPO` - https://github.com/PURHSHOTTAM/LIB-PLUGINS Don't Use Another. 
+
+
+* `LOAD_UNOFFICIAL_PLUGINS` - If You Need Extra plugins Then Set True .. and If You Want  Just Some useful Plug-in Then Set False.
+
+* `OWNER_ID` - Your Tg Id Go To t.me/MeThePrincess_Bot And Do /info Or Any Use Any Other bot.
+
+* `PREF_BRANCH` - Don't Touch These ok 
+
+### THAT IS VERY EASY WAY TO SETUP 😃☝️☝️☝️
+
+
+
+## HEROKU ALL VARS 
+That Is Not Important So If You Want to set then setup your own ok.
+[READ HERE AND SETUP ](https://telegra.ph/HEROKU-VARS-FOR-TEAM-LIBRARIANS-USERBOT-05-05)
+
 
 ## Disclaimer
 
@@ -44,92 +87,13 @@ The easiest way to deploy this Bot
    Yes! you heard it right.
 /**
 ```
-* Telegram [API Keys](https://my.telegram.org/apps)
-* Google Drive [API Keys](https://console.developers.google.com/)
-* HU_SESSION [![HU_SESSION](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Mrperfect63/PYROGRAM-String-Generator)
-* MongoDB [Database URL](https://cloud.mongodb.com/)
+ 
 ## How To Deploy 
 * With Heroku:<b>Just Click On Image Given Below<b>
 <p align="center">
    <a href = "https://heroku.com/deploy?template=https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN-PACK"><img src="https://telegra.ph/file/d6f19e66ea24527a25673.png" alt="Press to Takeoff" width="490px"></a>
 </p>
-<br>
-> **NOTE** : your can fill other vars as your need and they are optional. (settings -> reveal config vars)
 
-* First click The Button Above.
-
-* Fill `API_ID`, `API_HASH`, `DATABASE_URL`, `LOG_CHANNEL_ID`, `HEROKU_APP_NAME` and `HEROKU_API_KEY` (**required**)
-
-* Then fill Dual Mode vars : `OWNER_ID`, `BOT_TOKEN` and `HU_STRING_SESSION`
-
-* Then fill [other **non-required** vars](https://telegra.ph/Heroku-Vars-for-USERGE-X-08-25) later
-* Finally **hit deploy** button
-## String Session
-**VAR ->** `HU_STRING_SESSION`
-#### By HEROKU- [open your app](https://dashboard.heroku.com/apps/) then go to **more** -> **run console** and type `bash genStr` and click **run**.
-
-#### On REPL
-- [Generate on REPL](https://replit.com/@MrPerfectPURUSH/stringsessiongen?v=1)
-
-### Read more
-
-<details>
-
-  <summary><b>Details and Guides</b></summary>
-
-## Other Ways
-
-* With Docker 🐳 
-
-    <a href="https://github.com/code-rgb/USERGE-X/blob/alpha/resources/readmeDocker.md"><b>See Detailed Guide</b></a>
-
-* With Git, Python and pip 🔧
-
-  ```bash
-
-  # clone the repo
-
-  git clone https://github.com/code-rgb/userge-x.git
-
-  cd userge-x
-
-  # create virtualenv
-
-  virtualenv -p /usr/bin/python3 venv
-
-  . ./venv/bin/activate
-
-  # install requirements
-
-  pip install -r requirements.txt
-
-  # Create config.env as given config.env.sample and fill that
-
-  cp config.env.sample config.env
-
-  # get string session and add it to config.env
-
-  bash genStr
-
-  # finally run the PM--X ;)
-
-  bash run
-
-  ```
-
-<h2>Guide to Upstream Forked Repo</h2>
-
-<a href="https://telegra.ph/Upstream-Userge-Forked-Repo-Guide-07-04"><b>Upstream Forked Repo</b></a>
-
-<br>
-
-<br>
-
-<h3 align="center">Youtube Tutorial<h3>
-
-<p align="center"><a href="https://youtu.be/M4T_BJvFqkc"><img src="https://i.imgur.com/VVgSk2m.png" width=250px></a>
-
-</p>
 
 ## Features 
 
