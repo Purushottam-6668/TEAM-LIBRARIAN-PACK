@@ -20,7 +20,7 @@
 		},
 		"LOG_CHANNEL_ID": {
 			"description": "[ Private Telegram Log Channel ID ], Note: Also add your Bot to LOG CHANNEL !"
-		}, 
+		},
 		"HEROKU_API_KEY": {
 			"description": "[Required] Get a Heroku API key from http://dashboard.heroku.com/account",
 			"required": false
@@ -46,7 +46,7 @@
 			"description": "Upstream repo preffered branch. (Dont Touch This !)",
 			"required": false,
 			"value": "alpha"
-		},
+		}
 	},
 	"buildpacks": [
 		{
