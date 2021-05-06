@@ -67,7 +67,20 @@ The easiest way to deploy this Bot
 That Is Not Important So If You Want to set then setup your own ok.
 [READ HERE AND SETUP ](https://telegra.ph/HEROKU-VARS-FOR-TEAM-LIBRARIANS-USERBOT-05-05)
 
+## INFO ABOUT SOURCE
+[![Stars](https://img.shields.io/github/stars/PURHSHOTTAM/TEAM-LIBRARIAN-PACK?style=flat-square&color=yellow)](https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN-PACK/stargazers)
+[![Forks](https://img.shields.io/github/forks/PURHSHOTTAM/TEAM-LIBRARIAN-PACK?style=flat-square&color=orange)](https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN-PACK/fork)
+[![Size](https://img.shields.io/github/repo-size/PURHSHOTTAM/TEAM-LIBRARIAN-PACK?style=flat-square&color=green)](https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN-PACK/)   
+[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN-PACK/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN-PACK)   
+[![Contributors](https://img.shields.io/github/contributors/PURHSHOTTAM/TEAM-LIBRARIAN-PACK?style=flat-square&color=green)](https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN-PACK/graphs/contributors)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN-PACK/blob/main/LICENSE)   
+[![HitCount](http://hits.dwyl.com/PURHSHOTTAM/PURHSHOTTAM/TEAM-LIBRARIAN-PACK.svg)](http://hits.dwyl.com/PURHSHOTTAM/PURHSHOTTAM/TEAM-LIBRARIAN-PACK)   
+[![Sparkline](https://stars.medv.io/PURHSHOTTAM/TEAM-LIBRARIAN-PACK.svg)](https://stars.medv.io/PURHSHOTTAM/TEAM-LIBRARIAN-PACK)
 
+----
 ## Disclaimer
 
 ```
